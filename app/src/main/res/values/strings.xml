@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <array name="borrow">
+        <item>borrow</item>
+        <item>lend</item>
+
+    </array>
+</resources>
